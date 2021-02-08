@@ -2,7 +2,7 @@
 """
 Created on Mon Feb  1 15:30:19 2021
 
-@author: Asus
+@author: Swapnil
 """
 
 import sounddevice as sd
